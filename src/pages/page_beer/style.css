@@ -1,0 +1,23 @@
+.page-beer {
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  gap: 20px;
+
+  padding: 25px 0;
+}
+
+.page-beer__title {
+  margin: 0;
+  text-align: center;
+}
+
+.page-beer__title-list {
+  margin: 0;
+}
+
+.page-beer__list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}

@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+
+  padding: 20px 16px;
+}
+
+.header__link {
+  font-size: 25px;
+
+  text-decoration: none;
+}
